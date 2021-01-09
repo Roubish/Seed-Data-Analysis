@@ -8,6 +8,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 sklearn
+
 K-nearest neighbors (KNN) 
 
 Seed dataset
